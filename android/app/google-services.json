@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69240277228",
+    "project_id": "digital-assistance-d0ef4",
+    "storage_bucket": "digital-assistance-d0ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69240277228:android:4da0275184109e47a87dc9",
+        "android_client_info": {
+          "package_name": "com.example.Digital_Assistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69240277228-ser86kc1rqpclhgbgf1fbudcbq9oe067.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofthtMLiTNUdRJh5HD2N2_w6e0V_-K6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69240277228-ser86kc1rqpclhgbgf1fbudcbq9oe067.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
